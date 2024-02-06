@@ -1,0 +1,11 @@
+* text=auto
+
+*.blade.php linguist-vendored=true
+*.css linguist-vendored=true
+*.scss linguist-vendored=true
+*.html linguist-vendored=true
+*.md diff=markdown
+*.php diff=php
+
+/.github export-ignore
+CHANGELOG.md export-ignore
